@@ -20,14 +20,27 @@
 
 </head>
 <body>
-  <div class="wrapper">
-    <div class="row">
-      <div class="col col-lg-2">
-    	<p>Lorem ipsum dolor sit amet.</p></div>
-      <div class="col col-lg-6">
-    	<p>Lorem ipsum dochfghlor sit amet.</p></div>
-    </div>
-  </div>
+  <section class="profit">
+  	<div class="wrapper">
+  		<div class="row">
+  			<div class="item">
+  				<img src="images/Button_Icon_Orange.svg" alt="">
+  				<div class="subtitle">Multy Purpose</div>
+  				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, hic.</div>
+  			</div>
+  			<div class="item">
+  				<img src="images/Button_Icon_Orange.svg" alt="">
+  				<div class="subtitle">Multy Purpose</div>
+  				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, alias.</div>
+  			</div>
+  			<div class="item">
+  				<img src="images/Button_Icon_Orange.svg" alt="">
+  				<div class="subtitle">Multy Purpose</div>
+  				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sit.</div>
+  			</div>
+  		</div>
+  	</div>
+  </section>
 <script type="text/javascript" src="script/scripts.min.js"></script>
 <!-- <script>window.jQuery || document.write('<script src="script/jquery.js"><\/script>')</script> -->
 </body>
