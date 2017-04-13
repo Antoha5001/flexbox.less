@@ -25,17 +25,17 @@
   		<div class="row">
   			<div class="item">
   				<img src="images/Button_Icon_Orange.svg" alt="">
-  				<div class="subtitle">Multy Purpose</div>
+  				<div class="subtitle">Multy Purpose 1</div>
   				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, hic.</div>
   			</div>
   			<div class="item">
   				<img src="images/Button_Icon_Orange.svg" alt="">
-  				<div class="subtitle">Multy Purpose</div>
+  				<div class="subtitle">Multy Purpose 2</div>
   				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, alias.</div>
   			</div>
   			<div class="item">
   				<img src="images/Button_Icon_Orange.svg" alt="">
-  				<div class="subtitle">Multy Purpose</div>
+  				<div class="subtitle">Multy Purpose 3</div>
   				<div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, sit.</div>
   			</div>
   		</div>
