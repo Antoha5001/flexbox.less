@@ -26,9 +26,10 @@ body{
 	padding: 0 5px;
 }
 .row{	
-	display: flex;
+	/*display: flex;
 	justify-content: space-around;
-	flex-wrap: wrap;
+	flex-wrap: wrap;*/
+	.row-flex();
 }
 .item{
 	margin: 15px;
